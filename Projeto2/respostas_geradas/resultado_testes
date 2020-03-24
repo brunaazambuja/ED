@@ -1,0 +1,146 @@
+Grafo 1:
+MST com custo: 75
+Economia vs malha totalmente conexa: 90
+MST única!
+Tempo total do programa: 0.000500 segundos
+0 1
+0 2
+1 3
+3 4
+----------------------------------------------
+Grafo 2:
+MST com custo: 53
+Economia vs malha totalmente conexa: 73
+MST não é única!
+Tempo total do programa: 0.000795 segundos
+0 1
+0 9
+1 3
+2 6
+2 7
+2 9
+4 7
+5 7
+8 9
+
+E
+
+0 1
+0 9
+1 2
+1 3
+2 6
+2 7
+4 7
+5 7
+8 9
+----------------------------------------------
+Grafo 3:
+MST com custo: 117
+Economia vs malha totalmente conexa: 209
+MST não é única!
+Tempo total do programa: 0.001158 segundos
+0 1
+0 31
+1 3
+1 15
+2 3
+2 7
+4 14
+4 15
+5 19
+5 27
+6 21
+6 24
+6 25
+6 26
+7 13
+7 28
+8 9
+8 17
+9 16
+9 29
+10 13
+11 20
+11 22
+11 23
+12 15
+13 18
+13 27
+15 16
+15 30
+19 20
+26 27
+
+E
+
+0 1
+0 31
+1 3
+1 15
+2 3
+4 14
+4 15
+5 19
+5 27
+6 21
+6 24
+6 25
+6 26
+7 13
+7 14
+7 28
+8 9
+8 17
+9 16
+9 29
+10 13
+11 20
+11 22
+11 23
+12 15
+13 18
+13 27
+15 16
+15 30
+19 20
+26 27
+----------------------------------------------
+Grafo 4:
+MST com custo: 15
+Economia vs malha totalmente conexa: 14
+MST única!
+Tempo total do programa: 0.000505 segundos
+0 1
+0 3
+2 3
+----------------------------------------------
+Grafo 5:
+MST com custo: 12
+Economia vs malha totalmente conexa: 7
+MST não é única!
+Tempo total do programa: 0.000709 segundos
+0 1
+1 2
+
+E
+
+0 2
+1 2
+----------------------------------------------
+Grafo 6:
+MST com custo: 18
+Economia vs malha totalmente conexa: 18
+MST não é única!
+Tempo total do programa: 0.000600 segundos
+0 1
+0 3
+0 4
+1 2
+
+E
+
+0 2
+0 3
+0 4
+1 2
